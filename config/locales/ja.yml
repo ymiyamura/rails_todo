@@ -1,0 +1,25 @@
+ja:
+  activerecord:
+    models:
+      note: タスク一覧
+    attributes:
+      note:
+        title: タイトル
+        body: 内容
+        limit_date: 期限
+  helpers:
+    actions: 処理
+    links:
+      edit: 編集
+      destroy: 削除
+      new: 新規登録
+      cancel: キャンセル
+      back: 戻る
+      confirm: 実行してよろしいですか？
+    titles:
+      new: 新規登録
+      edit: 編集
+    submit:
+      create: 登録する
+      update: 更新する
+      submit: 保存する
